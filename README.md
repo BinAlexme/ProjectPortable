@@ -7,6 +7,6 @@ There are some disadvantages to this method, but it is not possible to do it wit
 Additional and Mandatory Programs
 -------------
 
-*[PortableApps Launcher](https://sourceforge.net/projects/portableapps/)
-*[PortableApps NSIS](https://sourceforge.net/projects/portableapps/)
+*[PortableApps Launcher](https://sourceforge.net/projects/portableapps/files/PortableApps.com%20Launcher/PortableApps.comLauncher_2.2.paf.exe/download)
+*[PortableApps NSIS](https://sourceforge.net/projects/portableapps/files/NSIS%20Portable/Additional%20Versions/NSISPortable_2.46.5_Rev_2_English.paf.exe/download)
 *[ResourcesExtract](https://www.nirsoft.net/utils/resources_extract.html)
